@@ -6,6 +6,12 @@ Proyecto final del curso de Algoritmica II
   Presenta dos tipos de usuarios:
    - Secretaria : Registra y modifica datos de los usuarios.
    - Doctor: Ejecuta el análisis de PH e indica el diagnóstico médico.
- 
-**Semestre 2016-1**
-**Prof: Luis Guerra Grados**
+   
+## Realizado por
+ - Yudely Palpán
+ - Rodrigo Almeyda
+ - Emanuel Berrios
+ - Sebasthian Ampuero
+
+###Semestre 2016-1
+###Prof: Luis Guerra Grados
