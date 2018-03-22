@@ -13,5 +13,5 @@ Proyecto final del curso de Algoritmica II
  - Emanuel Berrios
  - Sebasthian Ampuero
 
-###Semestre 2016-1
-###Prof: Luis Guerra Grados
+### Semestre 2016-1
+### Prof: Luis Guerra Grados
